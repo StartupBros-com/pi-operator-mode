@@ -5,3 +5,6 @@ node_modules/
 *.log
 coverage/
 dist/
+
+# Claude Code parallel worktrees
+.claude/worktrees/
